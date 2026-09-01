@@ -22,3 +22,8 @@ ls -la
 
 The -l option shows detailed information.
 The -a option shows hidden files.
+
+## touch
+
+create an empty file
+cre
